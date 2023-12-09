@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @warleylsouza
 - 👀 I’m interested in ... frontend
 - 🌱 I’m currently learning ... html Css javascript
-- 💞️ I’m looking to collaborate on ... everything I can
+- 💞️ I’m looking to collaborate on ... everything I can do for technology.
 - 📫 How to reach me ...
 
 <!---
