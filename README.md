@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @warleylsouza
 - 👀 I’m interested in ... cybersecurity
-- 🌱 I’m currently learning ... html Css javascript
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... everything I can do for technology.
 - 📫 How to reach me ... warleyl@proton.me
 
